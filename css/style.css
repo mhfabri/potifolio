@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+.logo{
+    width: 20%;
+    margin: 0;
+}
+
+.minhafonte{
+    font-size: 1.2rem;
+}
+
+.acesse{
+    /* colocar cor dos bgl */
+    text-decoration: none;
+}
