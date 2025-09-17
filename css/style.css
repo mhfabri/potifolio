@@ -16,3 +16,12 @@ body{
     /* colocar cor dos bgl */
     text-decoration: none;
 }
+
+.imagemperson{
+    width: 500px;
+}
+
+.footer{
+    margin-top: 150px;
+    color: rgba(255, 255, 255, 0.4);
+}
